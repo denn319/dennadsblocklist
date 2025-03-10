@@ -1,0 +1,25 @@
+!
+! Title: Denn's Ads Blocklist
+! Description: Blocks ads content.
+! Version: 1.0
+! Homepage: https://github.com/denn319/dennadsblocklist
+! Last modified: 2025-03-10
+!
+! Compiled by @denn
+!
+doubleclick.net
+googlesyndication.com
+adservice.google.com
+ads.google.com
+admob.com
+criteo.com
+pubmatic.com
+rubiconproject.com
+google-analytics.com
+facebook.net
+scorecardresearch.com
+clarity.microsoft.com
+piwik.pro
+sentry.io
+crashlytics.com
+rubiconproject.com
