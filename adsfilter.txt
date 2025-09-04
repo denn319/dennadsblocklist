@@ -1,34 +1,34 @@
 !
 ! Title: Denn's Ads Blocklist
 ! Description: Blocks ads content.
-! Version: 1.0
+! Version: 1.1
 ! Homepage: https://github.com/denn319/dennadsblocklist
-! Last modified: 2025-03-10
+! Last modified: 2025-09-4
 !
 ! Compiled by @denn
 !
-doubleclick.net
-googlesyndication.com
-adservice.google.com
-ads.google.com
-admob.com
-applovin.com
-unityads.unity3d.com
-ironsrc.com
-chartboost.com
-adcolony.com
-inmobi.com
-smaato.com
-mintegral.com
-vungle.com
-criteo.com
-pubmatic.com
-rubiconproject.com
-google-analytics.com
-facebook.net
-scorecardresearch.com
-clarity.microsoft.com
-piwik.pro
-sentry.io
-crashlytics.com
-rubiconproject.com
+||doubleclick.net^
+||googlesyndication.com^
+||adservice.google.com^
+||ads.google.com^
+||admob.com^
+||applovin.com^
+||unityads.unity3d.com^
+||ironsrc.com^
+||chartboost.com^
+||adcolony.com^
+||inmobi.com^
+||smaato.com^
+||mintegral.com^
+||vungle.com^
+||criteo.com^
+||pubmatic.com^
+||rubiconproject.com^
+||google-analytics.com^
+||facebook.net^
+||scorecardresearch.com^
+||clarity.microsoft.com^
+||piwik.pro^
+||sentry.io^
+||crashlytics.com^
+||rubiconproject.com^
