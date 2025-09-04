@@ -12,6 +12,15 @@ googlesyndication.com
 adservice.google.com
 ads.google.com
 admob.com
+applovin.com
+unityads.unity3d.com
+ironsrc.com
+chartboost.com
+adcolony.com
+inmobi.com
+smaato.com
+mintegral.com
+vungle.com
 criteo.com
 pubmatic.com
 rubiconproject.com
