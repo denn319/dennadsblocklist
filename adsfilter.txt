@@ -10,7 +10,7 @@
 ||doubleclick.net^
 ||googlesyndication.com^
 ||adservice.google.com^
-#||ads.google.com^
+||ads.google.com^
 ||admob.com^
 ||applovin.com^
 ||unityads.unity3d.com^
