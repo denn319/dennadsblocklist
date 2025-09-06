@@ -7,11 +7,6 @@
 !
 ! Compiled by @denn
 !
-||android.com^
-||googleusercontent.com^
-||gstatic.com^
-||ggpht.com^
-||android.clients.google.com^
 ||doubleclick.net^
 ||googlesyndication.com^
 ||googleadservices.com^
