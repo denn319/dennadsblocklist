@@ -35,3 +35,14 @@
 ||sentry.io^
 ||crashlytics.com^
 ||rubiconproject.com^
+! Block apk sites
+||apkmirror.com^
+||apkpure.com^
+||aptoide.com^
+||uptodown.com^
+||f-droid.org^
+||softpedia.com^
+||download.cnet.com^
+||androidapksfree.com^
+||apkmonk.com^
+||apk.ort^
