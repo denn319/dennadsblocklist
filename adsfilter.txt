@@ -35,4 +35,4 @@
 ||sentry.io^
 ||crashlytics.com^
 ||rubiconproject.com^
-||miwifi.com^
+||api.miwifi.com^
