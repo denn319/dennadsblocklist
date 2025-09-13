@@ -27,8 +27,6 @@
 ||rubiconproject.com^
 ||google-analytics.com^
 ||audience.facebook.com^
-||graph.facebook.com^
-||facebook.net^
 ||scorecardresearch.com^
 ||clarity.microsoft.com^
 ||piwik.pro^
