@@ -7,6 +7,19 @@
 !
 ! Compiled by @denn
 !
+! Optimize for telegram
+@@||*.telegram.org^
+@@||*.tlgrm.io^
+@@||*.tdesktop.com^
+@@||*.telegram.me^
+@@||*.telesco.pe^
+@@||*.cdn-telegram.org^
+@@||*.telegra.ph^
+@@||*.graph.org^
+@@||*.t.me^
+@@||*.telegram-cdn.org^
+@@||*.web.telegram.org^
+! Blocking ads
 ||doubleclick.net^
 ||googlesyndication.com^
 ||googleadservices.com^
