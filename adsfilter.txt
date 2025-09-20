@@ -43,7 +43,7 @@
 ||scorecardresearch.com^
 ||clarity.microsoft.com^
 ||piwik.pro^
-@@||sentry.io^
+!@@||sentry.io^
 ||crashlytics.com^
 ||rubiconproject.com^
 ||api.miwifi.com^
