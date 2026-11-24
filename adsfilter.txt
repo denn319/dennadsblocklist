@@ -53,3 +53,4 @@
 ||hicloud.com^
 ||oppomobile.com^
 ||vivo.com.cn^
+||ufileos.com^
