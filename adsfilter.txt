@@ -47,3 +47,9 @@
 ||crashlytics.com^
 ||rubiconproject.com^
 ||api.miwifi.com^
+! OS Telemetry & Ad Domains
+||miui.com^
+||xiaomi.com^
+||hicloud.com^
+||oppomobile.com^
+||vivo.com.cn^
